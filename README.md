@@ -1,4 +1,4 @@
-![banner](../SPRINT-4/banner.png)
+![banner](./SPRINT-4/banner.png)
 
 # FIAP Challenge – Data Science x Dasa
 
