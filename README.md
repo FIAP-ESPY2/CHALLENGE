@@ -1,4 +1,4 @@
-![banner]('./banner.png')
+![banner]('../banner.png')
 
 # FIAP Challenge – Data Science x Dasa
 
